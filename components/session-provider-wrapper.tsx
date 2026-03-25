@@ -9,4 +9,3 @@ export function SessionProviderWrapper({
 }) {
   return <SessionProvider>{children}</SessionProvider>;
 }
-
